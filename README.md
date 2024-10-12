@@ -59,7 +59,7 @@ The application consists of three main sections:
 ## Screenshots
 
 ### User Information Form
-![User Information Form](Screenshot 2024-10-12 235351.png)
+!(Screenshot 2024-10-12 235351.png)
 
 
 
