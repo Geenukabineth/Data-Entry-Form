@@ -56,9 +56,18 @@ The application consists of three main sections:
 - If the user is not registered, Rs. 1000 is added to the total fee.
 - The balance is then computed by subtracting the paid amount from the total fee.
 
+
+
+## Screenshots
+
+Here are some screenshots of the Data Entry Form:
+
+### User Information Form
+![User Information Form](Screenshot 2024-10-12 235351.png.png)
+
 ## Example `user_data.txt` Output
 
 ```plaintext
 First Name: John, Last Name: Doe, Title: Mr., Age: 30, Nationality: Sri Lanka, Registered: Yes, Paid: Paid, Paid Amount: 5000, Balance: 5000.00, Course: Data Science
 
-Screenshots
+
